@@ -5,8 +5,8 @@ From these insights, our team will design a new marketing strategy to convert ca
 
 However, the executives must first approve of our recommendations. In which, must be backed up with compelling data insights and professional data visualizations.
 
-* Case study: [capstone-case-study.html](capstone-case-study.html)
-* Case study data preparation in python: [capstone-case-study-data-preparation.html](capstone-case-study-data-preparation.html)
+* Case study: [capstone-case-study.html](https://htmlpreview.github.io/?https://github.com/hyoaru/google-data-analytics-capstone-case-study/blob/master/capstone-case-study.html)
+* Case study data preparation in python: [capstone-case-study-data-preparation.html](https://htmlpreview.github.io/?https://github.com/hyoaru/google-data-analytics-capstone-case-study/blob/master/capstone-case-study-data-preparation.html)
 
 ## Data source and organization
 The data used for the case study on Cyclistic is sourced from https://divvy-tripdata.s3.amazonaws.com/index.html. Made available by Motivate International Inc. under  this [license](https://ride.divvybikes.com/data-license-agreement) The dataset contains historical data on bike rides. In which, contains the columns:
